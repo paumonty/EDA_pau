@@ -36,23 +36,11 @@ Análisis cruzado entre inflación y evolución de activos.
 
 ## 📁 Activos analizados
 Índices de inflación y tipos de interés (FED & CPI – EE. UU.)
-
 ETFs de bonos
-
 Bonos del Tesoro estadounidense a 10 años
-
 Metales preciosos: oro, plata, platino y paladio
-
 Acciones representativas del S&P 500: Apple (AAPL), Microsoft (MSFT), JPMorgan Chase (JPM) y Google (GOOG)
 
-## 📂 Fuentes de datos
-Federal Reserve (FED)
-
-Bureau of Labor Statistics (CPI)
-
-Yahoo Finance / MarketWatch
-
-London Bullion Market Association (LBMA)
 
 ## 📈 Visualizaciones clave
 Evolución comparativa de cada activo frente a la inflación.
